@@ -1,12 +1,11 @@
-<img src= "bannerGitHub2.png"></img> 
+<img src= "https://raw.githubusercontent.com/BorisGiba/BorisGiba/master/githubBanner2.png"></img> 
 
-<p style="text-align: center;"> ⎯⎯ <a href="youtube.com/u/BorisGiba">YouTube</a> ⎯⎯⎯⎯⎯
+<p align="center"> ⎯⎯ <a href="youtube.com/u/BorisGiba">YouTube</a> ⎯⎯⎯⎯⎯
 <a href="linkedin.com/in/BorisGiba")>LinkedIn</a> ⎯⎯⎯⎯⎯
 <a href="machinelearningprojects.ai">My blog</a> ⎯⎯ </p>
-<p style="text-align: center;">Or connect to me directly via E-Mail!</p>
-<p style="text-align: center;"> ⎯⎯
+<p align="center">Or connect to me directly via E-Mail!</p>
+<p align="center"> ⎯⎯
 <a href="">mail.borisgiba@gmail.com</a> ⎯⎯ </p>
-
 
 ## Hi!👋😃
 I am a first year computer science student at the TU Kaiserslautern. Through self-study
