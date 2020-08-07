@@ -1,6 +1,4 @@
 <img src= "https://raw.githubusercontent.com/BorisGiba/BorisGiba/master/githubBanner2.png"></img> 
-<img src= "https://raw.githubusercontent.com/BorisGiba/BorisGiba/master/bannerGitHub2.png"></img> 
->>>>>>> a64effd210d4f0f454b9b7bc567022295d849dc7
 
 <p align="center"> ⎯⎯ <a href="youtube.com/u/BorisGiba">YouTube</a> ⎯⎯⎯⎯⎯
 <a href="linkedin.com/in/BorisGiba")>LinkedIn</a> ⎯⎯⎯⎯⎯
