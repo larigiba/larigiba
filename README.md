@@ -1,6 +1,4 @@
 <img src= "https://raw.githubusercontent.com/BorisGiba/BorisGiba/master/githubBanner2.png"></img> 
-<img src= "https://raw.githubusercontent.com/BorisGiba/BorisGiba/master/bannerGitHub2.png"></img> 
->>>>>>> a64effd210d4f0f454b9b7bc567022295d849dc7
 
 <p align="center"> ⎯⎯ <a href="youtube.com/u/BorisGiba">YouTube</a> ⎯⎯⎯⎯⎯
 <a href="linkedin.com/in/BorisGiba")>LinkedIn</a> ⎯⎯⎯⎯⎯
@@ -42,3 +40,4 @@ post videos and articles about machine learning!
 - start a machine learning club at my university
 - earn a scholarship at my university
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisGiba&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000428)](https://github.com/anuraghazra/github-readme-stats)
