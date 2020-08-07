@@ -1,4 +1,4 @@
-<img src= "bannerGitHub2.png"></img> 
+<img src= "https://raw.githubusercontent.com/BorisGiba/BorisGiba/master/bannerGitHub2.png"></img> 
 
 <p style="text-align: center;"> ⎯⎯ <a href="youtube.com/u/BorisGiba">YouTube</a> ⎯⎯⎯⎯⎯
 <a href="linkedin.com/in/BorisGiba")>LinkedIn</a> ⎯⎯⎯⎯⎯
