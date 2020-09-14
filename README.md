@@ -1,8 +1,6 @@
 <img src= "https://raw.githubusercontent.com/BorisGiba/BorisGiba/master/githubBanner.png"></img> 
 
-<p align="center"> ⎯⎯ <a href="youtube.com/u/BorisGiba">YouTube</a> ⎯⎯⎯⎯⎯
-<a href="linkedin.com/in/BorisGiba")>LinkedIn</a> ⎯⎯⎯⎯⎯
-<a href="machinelearningprojects.ai">My blog</a> ⎯⎯ </p>
+<p align="center"><a href="https://linkedin.com/in/BorisGiba")>LinkedIn</a>
 <p align="center">Or connect to me directly via E-Mail!</p>
 <p align="center"> ⎯⎯
 <a href="">mail.borisgiba@gmail.com</a> ⎯⎯ </p>
