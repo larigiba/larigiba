@@ -18,7 +18,7 @@ In high school, I have won several highly prestigious awards through my work in 
 
 I am extremely passionate about teaching and making education in tech more accessible for everyone. This is why, in 2020, I started volunteering for the German National Competition in AI and I started creating online courses about ML topics. My courses were the foundation for the competition's free online learning platform. I have worked on an additional course about Python and one about the basics of machine learning. I started organizing an annual machine learning hackathon for the competition, writing short articles about useful ML tips and tricks, and more!
 I am so passionate about teaching machine learning that I even <a href="https://machinelearningcompass.com">made my own blog about ML</a>! It even has its own emoji-domain:
-https://xn--3s8hk6feb.com/
+https://💻🧠🧭.com/
 
 ### Cloud and Infrastructure Engineering
 
