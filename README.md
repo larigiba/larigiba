@@ -6,7 +6,7 @@ I'm a Lari and passionate about a lot of tech stuff.
 
 ### Machine Learning
 
-I am really passionate about Machine Learning. I did several projects before, including <a href="https://github.com/larigiba/neural_networks_from_scratch_python">implementing neural networks from scratch in NumPy</a>, <a href="https://github.com/larigiba/betterrecycling"> and developing a smart recycling system on a Raspberry Pi using CNNs in PyTorch</a>, <a href="https://larigiba.com/chatbot/">
+I am really passionate about Machine Learning. I did several projects before, including <a href="https://github.com/larigiba/neural_networks_from_scratch_python">implementing neural networks from scratch in NumPy</a>, and <a href="https://github.com/larigiba/betterrecycling"> developing a smart recycling system on a Raspberry Pi using CNNs in PyTorch</a>.
 In high school, I have won several highly prestigious awards through my work in the field of machine learning. In addition, I worked as a research assistant at the Fraunhofer institute for technical and economical mathematics for 2.5 years in high school and at the start of my degree.
 
 ### Teaching
@@ -36,8 +36,8 @@ I absolutely _love_ designing beautiful, interactive, and fun interfaces. I was 
 ![Web Assembly](./img/wasm.svg)
 ![Go](./img/go.svg)
 ![Java](./img/java.svg)
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
-![Haskell](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg)         
+<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"/>  
 ![F#](./img/fsharp.svg)
 
 <br/>
@@ -70,13 +70,13 @@ I absolutely _love_ designing beautiful, interactive, and fun interfaces. I was 
 ![Django](./img/django.svg)
 ![MySQL](./img/mysql.svg)
 ![Linux](./img/linux.svg)
-![Grafana](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg)
-          
+<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
+
 ![HTML](./img/html.svg)
 ![CSS](./img/css.svg)
 ![React](./img/react.svg)
 ![Gatsby](./img/gatsby.svg)
-![NextJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)
+<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
 
 ![REST](./img/rest.svg)
 ![GraphQL](./img/graphql.svg)
