@@ -1,3 +1,5 @@
+<img src= "https://raw.githubusercontent.com/larigiba/larigiba/main/githubBanner.png"></img>
+
 ## Hi! 👋
 
 I'm a Lari and passionate about a lot of tech stuff.
